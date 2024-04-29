@@ -140,8 +140,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./design/desktop-design.jpg)
-![Screenshot](./design/mobile-design.jpg)
+![Screenshot1](./design/desktop-design.jpg)
+![Screenshot2](./design/mobile-design.jpg)
 
 ### Links
 
