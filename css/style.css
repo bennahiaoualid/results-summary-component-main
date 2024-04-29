@@ -132,9 +132,7 @@ ul{
     color: var(--clr-White);
     margin-block: var(--main-margin);
 }
-.card .category-result{
-    
-}
+
 .card .category-result h2,.card .category-result .cat-val{
     color: var(--clr-Dark-gray)
 }
